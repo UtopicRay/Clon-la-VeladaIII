@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root{
+    background-color: lightgray;
+    font-family: SansSerif;
+}
+@font-face {
+    font-family: 'Okana';
+    src: url("/src/fonts/OkanaBlackOblique.ttf");
+    font-weight: bold;
+}
